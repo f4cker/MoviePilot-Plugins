@@ -4,8 +4,8 @@
     "description": "自动获取当季所有番剧，生成strm文件，mp刮削入库，emby直接播放，免去下载，轻松拥有一个番剧媒体库",
     "version": "2.4.2",
     "v2": true,
-    "icon": "https://raw.githubusercontent.com/honue/MoviePilot-Plugins/main/icons/anistrm.png",
-    "author": "honue",
+    "icon": "https://raw.githubusercontent.com/f4cker/MoviePilot-Plugins/main/icons/anistrm.png",
+    "author": "f4cker",
     "level": 2
   },
   "AdaptiveIntroSkip": {
@@ -19,8 +19,8 @@
       "v1.5": "时间支持 分:秒 格式",
       "v1.4": "增加用户事件筛选"
     },
-    "icon": "https://raw.githubusercontent.com/honue/MoviePilot-Plugins/main/icons/chapter.png",
-    "author": "honue",
+    "icon": "https://raw.githubusercontent.com/f4cker/MoviePilot-Plugins/main/icons/chapter.png",
+    "author": "f4cker",
     "level": 1
   },
   "DouBanWatching": {
@@ -40,8 +40,8 @@
       "v1.8.3": "支持仪表盘组件，现在样式还有点问题，之后再调整",
       "v1.8": "解决了容易提示cookie失效，导致同步失败的问题，现在用cookiecloud应该不用填保活了"
     },
-    "icon": "https://raw.githubusercontent.com/honue/MoviePilot-Plugins/main/icons/douban.png",
-    "author": "honue",
+    "icon": "https://raw.githubusercontent.com/f4cker/MoviePilot-Plugins/main/icons/douban.png",
+    "author": "f4cker",
     "level": 1
   },
   "ShortCut": {
@@ -54,8 +54,8 @@
       "v1.4": "提供两个版本的快捷指令，限制种子最多返回50个，增加显示副标题，有用到下载的需要更新快捷指令",
       "v1.3": "增加选择种子下载功能，ios快捷指令需要重新安装配置"
     },
-    "icon": "https://raw.githubusercontent.com/honue/MoviePilot-Plugins/main/icons/shortcut.jpg",
-    "author": "honue",
+    "icon": "https://raw.githubusercontent.com/f4cker/MoviePilot-Plugins/main/icons/shortcut.jpg",
+    "author": "f4cker",
     "level": 1
   },
   "CleanLogs": {
@@ -69,7 +69,7 @@
       "v0.2": "好像删错了...，删除逻辑应该是保留末尾{row}行。"
     },
     "icon": "clean.png",
-    "author": "honue",
+    "author": "f4cker",
     "level": 1
   },
   "BangumiRank": {
@@ -77,8 +77,8 @@
     "description": "Bangumi成员关注动画榜，时下流行番剧订阅，个人想看订阅",
     "v2": true,
     "version": "1.4",
-    "icon": "https://raw.githubusercontent.com/honue/MoviePilot-Plugins/main/icons/miku.jpg",
-    "author": "honue",
+    "icon": "https://raw.githubusercontent.com/f4cker/MoviePilot-Plugins/main/icons/miku.jpg",
+    "author": "f4cker",
     "level": 2
   },
   "FollowNotify": {
@@ -87,7 +87,7 @@
     "v2": true,
     "version": "1.1",
     "icon": "like.jpg",
-    "author": "honue",
+    "author": "f4cker",
     "level": 1
   },
   "BangumiSync": {
@@ -95,8 +95,8 @@
     "description": "将你在媒体库上的番剧观看，同步到Bangumi在看状态",
     "version": "1.8",
     "v2": true,
-    "icon": "https://raw.githubusercontent.com/honue/MoviePilot-Plugins/main/icons/bangumi.jpg",
-    "author": "honue,happyTonakai",
+    "icon": "https://raw.githubusercontent.com/f4cker/MoviePilot-Plugins/main/icons/bangumi.jpg",
+    "author": "f4cker,happyTonakai",
     "level": 2,
     "history": {
       "v1.8": "播放最后一集标记为看完",
@@ -110,8 +110,8 @@
     "name": "115转移",
     "description": "将新入库的媒体文件，转移到115网盘",
     "version": "0.1.2",
-    "icon": "https://raw.githubusercontent.com/honue/MoviePilot-Plugins/main/icons/clouddrive.png",
-    "author": "honue",
+    "icon": "https://raw.githubusercontent.com/f4cker/MoviePilot-Plugins/main/icons/clouddrive.png",
+    "author": "f4cker",
     "level": 3
   }
 }
